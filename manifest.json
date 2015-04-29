@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "InVision",
+    "version": "0.1",
+    "permissions": ["webview"],
+    "app": {
+        "background": {
+            "scripts": ["main.js"]
+        }
+    },
+    "icons": {
+        "16": "images/app-icon.png",
+        "48": "images/app-icon.png",
+        "128": "images/app-icon.png"
+    }
+}
